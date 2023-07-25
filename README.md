@@ -1,11 +1,10 @@
 # Statistics_r_data
 
-This is the repo for the workshop project: 
+This is the repo for the workshop project at PolyU, July 2023 
 
 
 Fundamentals of Statistics for Applied Linguistics Research with R
 
-at PolyU, July 2023
 
 The data for the project are in data.zip. 
 
